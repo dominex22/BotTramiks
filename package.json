@@ -1,0 +1,12 @@
+{
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "bot discord de la commu",
+  "main": "main.js",
+  "repository": "https://github.com/dominex22/BotTramiks.git",
+  "author": "dominex22 <matteonouaille64@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
